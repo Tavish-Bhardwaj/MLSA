@@ -16,9 +16,10 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "E:\technicalOnboarding\MLSA\src\images\mlsa2.jpg";
+import image from "src\images\mlsa3.jpg";
 
 const imageAltText = "A coding Image";
+// this has been edited
 
 /**
  * Sort description that expands on your title on the Home component.

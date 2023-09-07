@@ -31,8 +31,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "Database Design",
+  "Web Development",
+  "Database Development",
   "Developmet Operations",
   "Version Control",
   "Mobile App Development",

@@ -13,7 +13,7 @@ import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 //this is some new change for commiting.
 import "./styles.css";
-
+// this is a new change
 /**
  * This object represents your information. The project is set so that you
  * only need to update these here, and values are passed a properties to the
